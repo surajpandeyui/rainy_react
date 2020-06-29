@@ -7,6 +7,7 @@ import './components/pages/home/home.css';
 import './assets/css/style.css';
 
 
+
 function App() {
   return (
     <div className="App">
