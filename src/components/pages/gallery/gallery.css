@@ -1,0 +1,139 @@
+.rnyfltrs {
+    color: #fff;
+    top: 40%;
+    left: 50%;
+}
+.techpointslst ul li {
+    text-align: justify;
+    padding: 10px 0px;
+    font-size: 16px;
+    color: #000;
+}
+
+.techacrsec .techpointslst ul li {
+    color: #000;
+    font-weight: 500;
+}
+
+button#rnenq {
+    border: 1px solid#2c97d4;
+    background: #2c97d4;
+    padding: 3px 30px;
+    color: #fff;
+    margin: 0px 15px;
+    border-radius: 30px;
+}
+
+button#rnrdmr {
+    border: 1px solid#fff500;
+    background: #fff500;
+    padding: 3px 30px;
+    color: #000;
+    margin: 0px 15px;
+    border-radius: 30px;
+}
+
+.rainyfilterimg img {
+    width: 380px;
+    max-width: 100%;
+}
+
+h1.fl80 {
+    text-align: center;
+    font-weight: 600;
+    color: #fff;
+    font-size: 35px;
+    background: #2c97d4;
+    width: 27%;
+    margin: 45px auto;
+    padding: 10px 0px;
+    border-radius: 40px;
+}
+
+.fl100 {
+    background: #dff7f7;
+    padding-bottom: 45px;
+}
+
+.wthothding {
+    padding: 60px 0px;
+}
+
+.rainyss img {
+    width: 300px;
+    max-width: 100%;
+}
+.senq button {
+    float: right;
+}
+.rainyss {
+    float: right;
+    margin-right: 15%;
+}
+
+
+
+
+
+
+.gallery-title
+{
+    font-size: 36px;
+    color: #42B32F;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 70px;
+}
+.gallery-title:after {
+    content: "";
+    position: absolute;
+    width: 7.5%;
+    left: 46.5%;
+    height: 45px;
+    border-bottom: 1px solid #5e5e5e;
+}
+.filter-button
+{
+    font-size: 18px;
+    border: 1px solid #42B32F;
+    border-radius: 5px;
+    text-align: center;
+    color: #42B32F;
+    margin-bottom: 30px;
+
+}
+.filter-button:hover
+{
+    font-size: 18px;
+    border: 1px solid #42B32F;
+    border-radius: 5px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #42B32F;
+
+}
+.btn-default:active .filter-button:active
+{
+    background-color: #42B32F;
+    color: white;
+}
+
+.port-image
+{
+    width: 100%;
+}
+
+.gallery_product
+{
+    margin-bottom: 30px;
+}
+.techpointslst ul li:before{
+    content: '';
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    background-image: url(./images/Drop.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-right:0.5em;   
+}

@@ -1,0 +1,147 @@
+
+    
+
+/* In The Media */
+
+.groundwater_bg h2 {
+    text-align: center;
+    padding: 45px 0px 45px 0px;
+    font-size: 33px;
+    font-weight: 600;
+    color: #0568b0;
+    letter-spacing: 0.5px;
+    font-family: sans-serif;
+}
+
+.groundwater_bg h2:after {
+    content: '';
+    display: block;
+    text-align: center;
+    position: relative;
+    width: 9%;
+    border: 1px solid #0568b0;
+    margin: auto;
+    margin-top: 14px;
+}
+
+.inthemedia {
+    top: 40%;
+    left: 50%;
+    color: #ffffff;
+}
+
+.groundwater_bg.team {
+    padding: 0px 5px 5px 5px;
+    background: none;
+}
+
+.media-main {
+    padding: 0px 0px 485px 0px;
+}
+
+.sec-brdr {
+    border: 2px solid #4eb5e9;
+    padding: 0px 5px;
+}
+
+.mdiaimg {
+    margin-top: -25px;
+}
+
+.mdiaimg img {
+    width: 335px;
+    max-width: 100%;
+}
+
+.mdiacont {
+    padding: 0px 15px;
+}
+
+.mdiacont H3 {
+    padding: 0px 15px 0px 0px;
+    font-size: 16px;
+    line-height: 25px;
+    color: #0193d4;
+}
+
+.mediasocial i.fa.fa-facebook {
+    background: #0855a0;
+    color: #fff;
+    padding: 5px 8px;
+    font-size: 12px;
+    border-radius: 50%;
+}
+
+.mediasocial i.fa.fa-twitter {
+    background: #23bedf;
+    color: #fff;
+    padding: 5px 6px;
+    font-size: 12px;
+    border-radius: 50%;
+}
+
+.mediasocial i.fa.fa-google-plus {
+    background: #e10425;
+    color: #fff;
+    padding: 5px 4px;
+    font-size: 12px;
+    border-radius: 50%;
+}
+
+.mediabtn button {
+    background: #fff500;
+    border: 1px solid #fff500;
+    color: #131313;
+    border-radius: 25px;
+    padding: 2px 20px;
+    font-size: 12px;
+}
+
+.mdiasocial {
+    padding: 20px 0px;
+}
+
+
+
+.awrdimgsec {
+    text-align: center;
+}
+
+.awrdimgsec img {
+    width: 550px;
+    max-width: 100%;
+}
+
+.awrdimgcont {
+    width: 500px;
+    background: #2c97d4;
+    margin: auto;
+    color: #fff500;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.awrdimgcont h3 {
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 35px;
+}
+.award h1 {
+    text-align: center;
+    padding: 150px 0px;
+    background-image: url(images/AwardBanner.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 40px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.award-image {
+    padding-bottom: 30px;
+    background-image: url(images/Wave.png);
+    background-size: cover;
+    background-position: unset;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,102 @@
+
+
+/* Our Team */
+
+.entteamtxt {
+    top: 39%;
+    left: 15%;
+    width: 10%;
+    color: #fff;
+}
+
+.groundwater_bg h2 {
+    text-align: center;
+    padding: 45px 0px 45px 0px;
+    font-size: 33px;
+    font-weight: 600;
+    color: #0568b0;
+    letter-spacing: 0.5px;
+    font-family: sans-serif;
+}
+
+.groundwater_bg h2:after {
+    content: '';
+    display: block;
+    text-align: center;
+    position: relative;
+    width: 9%;
+    border: 1px solid #0568b0;
+    margin: auto;
+    margin-top: 14px;
+}
+
+p.team-para:after {
+    content: '';
+    display: block;
+    text-align: center;
+    position: relative;
+    width: 15%;
+    border: 1px solid #0568b0;
+    margin: auto;
+    margin-top: 14px;
+}
+
+h2.team-heading:after {
+    content: none;
+}
+
+h2.team-heading {
+    padding: 45px 0px 5px 0px;
+}
+
+p.team-para {
+    text-align: center;
+    padding: 0px 0px 45px 130px;
+}
+
+.team {
+    padding: 0px 5px 0px 5px;
+}
+
+.team-row {
+    text-align: center;
+}
+
+.team-row img {
+    width: 300px;
+    max-width: 100%;
+}
+
+h4.team-title {
+    font-size: 26px;
+    margin: 10px 0px;
+    font-weight: 600;
+    color: #056eb5;
+}
+
+p.team-desc {
+    font-size: 18px;
+    color: #8c8787;
+    margin: 0px 0px 10px 0px;
+}
+
+.team-row i {
+    font-size: 22px;
+}
+.sawar h1 {
+    text-align: center;
+    padding: 150px 0px;
+    background-image: url(images/Banner.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 40px;
+    font-weight: 600;
+    color: #fff;
+}
+.groundwater_bg {
+    background-image: url(images/Path233.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+}

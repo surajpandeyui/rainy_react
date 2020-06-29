@@ -1,0 +1,60 @@
+/* Downloads */
+
+.hero-text.dwnldbnnrtxt {
+    top: 40%;
+    left: 20%;
+    color: #fff;
+}
+
+.dnldbg {
+    background: #dff7f7;
+    padding: 100px 0px;
+}
+
+.card-header {
+    background: #fff;
+    border: none;
+}
+
+.downloadsec {
+    width: 100%;
+}
+
+.acrdinbrdr {
+    border-top: 2px solid #58b8ef;
+    padding: 20px 0px;
+}
+
+h5.mb-0 a {
+    font-size: 26px;
+    font-weight: 600;
+    color: #0285c8;
+    letter-spacing: 0.5px;
+}
+span.mb-span {
+    background: #e5e2e2;
+    font-size: 16px!important;
+    font-weight: 600;
+    color: #5b5959;
+    padding: 5px 10px;
+    margin-left: 20px;
+}
+
+.mb-0 > a:after {
+    content: "\f078";
+    font-family: 'FontAwesome';
+    position: absolute;
+    right: 10%;
+    font-weight: 200;
+    font-size: 22px;
+}
+.mb-0 > a[aria-expanded="true"]:after {
+  content: "\f077";
+}
+
+.card-body {
+    background: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.1px;
+}

@@ -1,0 +1,60 @@
+
+
+/* Get In Touch */
+
+.inthemedia {
+    color: #fff;
+    top: 40%;
+    left: 50%;
+}
+
+.gtintchmain {
+    background: #f0f9fd;
+    padding: 75px 0px;
+}
+
+h6.contacth {
+    font-size: 17px;
+    letter-spacing: 0.5px;
+    color: #fff500;
+    font-weight: 600;
+}
+
+h6.contacth img {
+    width: 25px;
+    margin-right: 5px;
+}
+
+.gtintchlft {
+    background: #0292d3;
+    padding: 30px 40px;
+    color: #fff;
+    border-radius: 30px;
+}
+
+.fominpt input {
+    width: 100%;
+    background: #fff;
+    border: none;
+    margin: 10px 0px;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.frmmsg input {
+    padding: 10px 10px 120px 10px;
+}
+
+.frmbtn input {
+    width: 25%;
+    max-width: 100%;
+    background: #2c97d4;
+    color: #ffffff;
+    border-radius: 30px;
+}
+
+.contmap {
+    padding: 45px 0px 0px 0px;
+    margin-bottom: -80px;
+}

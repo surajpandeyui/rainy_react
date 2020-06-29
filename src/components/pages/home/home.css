@@ -1,0 +1,31 @@
+.rainy-dual {
+    padding: 10px 0px 580px 0px;
+    background-image: url(images/Path233.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+
+.frmsecimg {
+    background-size: cover;
+    background-image: url(images/Group1189.png);
+    padding: 30px 0px 215px 0px;
+    background-repeat: no-repeat;
+    background-position: initial;
+    text-align: center;
+}
+
+.groundwater_bg {
+    padding: 0px 5px 460px 5px;
+    background-image: url(images/Wave.png);
+    background-size: cover;
+    background-position: bottom;
+}
+
+.about-home {
+    background-image: url(images/Group1187.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    padding: 100px 0px;
+}
